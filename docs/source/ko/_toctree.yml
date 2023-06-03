@@ -71,6 +71,8 @@
         title: 이미지 캡셔닝
       - local: in_translation
         title: (번역중) Document Question Answering
+      - local: tasks/text-to-speech
+        title: 음성합성(TTS)
     title: (번역중) 멀티모달
     isExpanded: false
   title: 태스크 가이드
